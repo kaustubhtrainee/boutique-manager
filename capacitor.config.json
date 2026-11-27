@@ -1,0 +1,6 @@
+{
+  "appId": "in.wingzspheretech.boutique",
+  "appName": "Boutique Manager",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
